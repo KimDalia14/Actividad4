@@ -1,0 +1,29 @@
+body
+{
+    text-align: center;
+    background-color: white;
+    
+}
+Div
+{
+    text-align: left;
+
+}
+nav div
+{
+background-color: mediumpurple;
+width: 100%;
+height:100%;
+text-align: left;
+}
+/*----Sitio Web------*/
+section
+{
+  text-align-last: right;
+
+}
+#section1
+{
+    text-align: center;
+}
+
